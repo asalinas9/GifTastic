@@ -34,7 +34,7 @@ $(document).ready(function() {
 	});
 
 	//API Call
-	$('button').on('click', function() {
+	$(document.body).on('click', '.btn-success', function() {
 		var show = $(this).attr('data-show');
 
 		var queryURL =

@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<link
+			rel="stylesheet"
+			href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css"
+			integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ"
+			crossorigin="anonymous"
+		/>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+		<link rel="stylesheet" href="assets/css/style.css" />
+		<title>GifTastic</title>
+	</head>
+	<body>
+	
+			<div class="jumbotron jumbotron-fluid p-3 mb-2 bg-primary text-white text-center">
+             <div class="container"></div>
+                <Favorite class="display-1">Favorite Show Gifs</h1>
+			</div>
+			<div class="row">
+				<div class="col-sm-8">
+					<div id="show-buttons"></div>
+				</div>
+				<div class="col-sm-4">
+					<form id="form">
+						<label for="show-input">Add a Show</label><br/>
+						<input type="text" id="shows-input" />
+						<input id="add-show" type="submit" value="Submit">
+					</form>
+				</div>
+
+				<div class="row">
+					<div class="col-sm-8">
+						<div id="shows"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<script src="assets/javascript/app.js"></script>
+	</body>
+</html>

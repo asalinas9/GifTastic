@@ -7,6 +7,8 @@
 
 Webpage populated with gifs buttons from some of the best TV comedy series. Click a button or use the search feature and watch the Gifs populate, click the picture and watch the Gif in action.
 
+![](assets/img/gifs.png)
+
 # Languages & Technologies used
 
 1. _HTML_.

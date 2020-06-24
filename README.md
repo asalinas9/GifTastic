@@ -1,5 +1,7 @@
 # GifTastic
-https://asalinas9.github.io/GifTastic/
+
+[GitHub Page](https://asalinas9.github.io/GifTastic/)
+
 
 # GIPHY API using Javascript and Jquery
 
@@ -7,4 +9,8 @@ Webpage populated with gifs buttons from the of the best TV comedy series. Click
 
 # Languages & Technologies used
 
-HTML, CSS, API, Javascript, Jquery
+1. _HTML_.
+2. _CSS_.
+3. _API_.
+4. _Javascript_.
+5. _Jquery_.
